@@ -1,0 +1,7 @@
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu02TipDonusumleri\bin\Debug\Konu02TipDonusumleri.exe.config
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu02TipDonusumleri\bin\Debug\Konu02TipDonusumleri.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu02TipDonusumleri\bin\Debug\Konu02TipDonusumleri.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu02TipDonusumleri\obj\Debug\Konu02TipDonusumleri.csproj.AssemblyReference.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu02TipDonusumleri\obj\Debug\Konu02TipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu02TipDonusumleri\obj\Debug\Konu02TipDonusumleri.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu02TipDonusumleri\obj\Debug\Konu02TipDonusumleri.pdb

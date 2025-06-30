@@ -1,0 +1,8 @@
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu03DizilerArrays\bin\Debug\Konu03DizilerArrays.exe.config
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu03DizilerArrays\bin\Debug\Konu03DizilerArrays.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu03DizilerArrays\bin\Debug\Konu03DizilerArrays.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu03DizilerArrays\obj\Debug\Konu03DizilerArrays.csproj.AssemblyReference.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu03DizilerArrays\obj\Debug\Konu03DizilerArrays.csproj.CoreCompileInputs.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu03DizilerArrays\obj\Debug\Konu03DizilerArrays.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu03DizilerArrays\obj\Debug\Konu03DizilerArrays.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu03DizilerArrays\obj\Debug\Konu03DizilerArrays.exe.config

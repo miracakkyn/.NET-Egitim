@@ -1,0 +1,8 @@
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\ConsoleApp1\bin\Debug\Konu01Degiskenler.exe.config
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\ConsoleApp1\bin\Debug\Konu01Degiskenler.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\ConsoleApp1\bin\Debug\Konu01Degiskenler.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\ConsoleApp1\obj\Debug\Konu01Degiskenler.csproj.AssemblyReference.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\ConsoleApp1\obj\Debug\Konu01Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\ConsoleApp1\obj\Debug\Konu01Degiskenler.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\ConsoleApp1\obj\Debug\Konu01Degiskenler.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\ConsoleApp1\obj\Debug\Konu01Degiskenler.exe.config
