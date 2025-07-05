@@ -1,0 +1,8 @@
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu06Donguler\bin\Debug\Konu06Donguler.exe.config
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu06Donguler\bin\Debug\Konu06Donguler.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu06Donguler\bin\Debug\Konu06Donguler.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu06Donguler\obj\Debug\Konu06Donguler.csproj.AssemblyReference.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu06Donguler\obj\Debug\Konu06Donguler.csproj.CoreCompileInputs.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu06Donguler\obj\Debug\Konu06Donguler.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu06Donguler\obj\Debug\Konu06Donguler.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu06Donguler\obj\Debug\Konu06Donguler.exe.config

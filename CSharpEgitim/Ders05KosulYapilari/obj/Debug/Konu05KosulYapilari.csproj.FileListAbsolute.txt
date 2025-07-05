@@ -1,0 +1,8 @@
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Ders05KosulYapilari\bin\Debug\Ders05KosulYapilari.exe.config
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Ders05KosulYapilari\bin\Debug\Ders05KosulYapilari.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Ders05KosulYapilari\bin\Debug\Ders05KosulYapilari.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Ders05KosulYapilari\obj\Debug\Konu05KosulYapilari.csproj.AssemblyReference.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Ders05KosulYapilari\obj\Debug\Konu05KosulYapilari.csproj.CoreCompileInputs.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Ders05KosulYapilari\obj\Debug\Ders05KosulYapilari.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Ders05KosulYapilari\obj\Debug\Ders05KosulYapilari.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Ders05KosulYapilari\obj\Debug\Ders05KosulYapilari.exe.config

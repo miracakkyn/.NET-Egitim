@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D21A48BD-66F4-4BD8-9BFD-422C521A08DC}|Konu04Operatorler\\Konu04Operatorler.csproj|c:\\users\\ozcim\\desktop\\yaz\u0131l\u0131m\\.net\\c#egitim\\.net-egitim\\csharpegitim\\konu04operatorler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D21A48BD-66F4-4BD8-9BFD-422C521A08DC}|Konu04Operatorler\\Konu04Operatorler.csproj|solutionrelative:konu04operatorler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF4C63EF-7C17-4CAB-A9C2-8D5A9C8EFF85}|Konu02TipDonusumleri\\Konu02TipDonusumleri.csproj|c:\\users\\ozcim\\desktop\\yaz\u0131l\u0131m\\.net\\c#egitim\\.net-egitim\\csharpegitim\\konu02tipdonusumleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF4C63EF-7C17-4CAB-A9C2-8D5A9C8EFF85}|Konu02TipDonusumleri\\Konu02TipDonusumleri.csproj|solutionrelative:konu02tipdonusumleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C51B10C5-B323-42F8-A799-CA7EDE8195F8}|ConsoleApp1\\Konu01Degiskenler.csproj|c:\\users\\ozcim\\desktop\\yaz\u0131l\u0131m\\.net\\c#egitim\\.net-egitim\\csharpegitim\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C51B10C5-B323-42F8-A799-CA7EDE8195F8}|ConsoleApp1\\Konu01Degiskenler.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E46BB59-2220-4957-A5CD-286C751A9E45}|ilkProje\\ilkProje.csproj|C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\ilkproje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E46BB59-2220-4957-A5CD-286C751A9E45}|ilkProje\\ilkProje.csproj|solutionrelative:ilkproje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB715801-A100-42F8-A8E3-8D8576A417D7}|deneme\\deneme.csproj|c:\\users\\ozcim\\desktop\\yaz\u0131l\u0131m\\.net\\c#egitim\\.net-egitim\\csharpegitim\\deneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB715801-A100-42F8-A8E3-8D8576A417D7}|deneme\\deneme.csproj|solutionrelative:deneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{922D4AAD-7FB2-40D9-9C35-2843C771AE7B}|Konu06Donguler\\Konu06Donguler.csproj|c:\\users\\ozcim\\desktop\\yaz\u0131l\u0131m\\.net\\c#egitim\\.net-egitim\\csharpegitim\\konu06donguler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922D4AAD-7FB2-40D9-9C35-2843C771AE7B}|Konu06Donguler\\Konu06Donguler.csproj|solutionrelative:konu06donguler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,65 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu04Operatorler\\Program.cs",
-              "RelativeDocumentMoniker": "Konu04Operatorler\\Program.cs",
-              "ToolTip": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu04Operatorler\\Program.cs",
-              "RelativeToolTip": "Konu04Operatorler\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAABGAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu06Donguler\\Program.cs",
+              "RelativeDocumentMoniker": "Konu06Donguler\\Program.cs",
+              "ToolTip": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu06Donguler\\Program.cs",
+              "RelativeToolTip": "Konu06Donguler\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T22:29:20.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu02TipDonusumleri\\Program.cs",
-              "RelativeDocumentMoniker": "Konu02TipDonusumleri\\Program.cs",
-              "ToolTip": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu02TipDonusumleri\\Program.cs",
-              "RelativeToolTip": "Konu02TipDonusumleri\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T21:51:34.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAADwvywAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:41:57.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\ilkProje\\Program.cs",
-              "RelativeDocumentMoniker": "ilkProje\\Program.cs",
-              "ToolTip": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\ilkProje\\Program.cs",
-              "RelativeToolTip": "ilkProje\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:06:46.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\deneme\\Program.cs",
-              "RelativeDocumentMoniker": "deneme\\Program.cs",
-              "ToolTip": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\deneme\\Program.cs",
-              "RelativeToolTip": "deneme\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:41:49.791Z",
+              "WhenOpened": "2025-07-05T19:06:30.98Z",
               "EditorCaption": ""
             }
           ]
