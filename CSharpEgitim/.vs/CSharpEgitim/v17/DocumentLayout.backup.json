@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71A082A0-CA09-466C-801E-2715C43E02A7}|Konu07Metodlar\\Konu07Metodlar.csproj|c:\\users\\ozcim\\desktop\\yaz\u0131l\u0131m\\.net\\c#egitim\\.net-egitim\\csharpegitim\\konu07metodlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A082A0-CA09-466C-801E-2715C43E02A7}|Konu07Metodlar\\Konu07Metodlar.csproj|solutionrelative:konu07metodlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{922D4AAD-7FB2-40D9-9C35-2843C771AE7B}|Konu06Donguler\\Konu06Donguler.csproj|c:\\users\\ozcim\\desktop\\yaz\u0131l\u0131m\\.net\\c#egitim\\.net-egitim\\csharpegitim\\konu06donguler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{922D4AAD-7FB2-40D9-9C35-2843C771AE7B}|Konu06Donguler\\Konu06Donguler.csproj|solutionrelative:konu06donguler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu07Metodlar\\Program.cs",
+              "RelativeDocumentMoniker": "Konu07Metodlar\\Program.cs",
+              "ToolTip": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu07Metodlar\\Program.cs*",
+              "RelativeToolTip": "Konu07Metodlar\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:52:06.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu06Donguler\\Program.cs",
               "RelativeDocumentMoniker": "Konu06Donguler\\Program.cs",
