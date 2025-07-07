@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8B2F1861-07C5-4440-A692-692222673E8A}</ProjectGuid>
+    <ProjectGuid>{ECEBC493-BFDB-4BE6-BA1D-B2EEAC3CC964}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Konu08Siniflar</RootNamespace>
-    <AssemblyName>Konu08Siniflar</AssemblyName>
+    <RootNamespace>Konu09ErisimBelirleyiciler</RootNamespace>
+    <AssemblyName>Konu09ErisimBelirleyiciler</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

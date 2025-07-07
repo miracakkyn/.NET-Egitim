@@ -1,0 +1,7 @@
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu10OzgenlerProperties\bin\Debug\Konu10OzgenlerProperties.exe.config
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu10OzgenlerProperties\bin\Debug\Konu10OzgenlerProperties.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu10OzgenlerProperties\bin\Debug\Konu10OzgenlerProperties.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu10OzgenlerProperties\obj\Debug\Konu10OzgenlerProperties.csproj.AssemblyReference.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu10OzgenlerProperties\obj\Debug\Konu10OzgenlerProperties.csproj.CoreCompileInputs.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu10OzgenlerProperties\obj\Debug\Konu10OzgenlerProperties.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu10OzgenlerProperties\obj\Debug\Konu10OzgenlerProperties.pdb

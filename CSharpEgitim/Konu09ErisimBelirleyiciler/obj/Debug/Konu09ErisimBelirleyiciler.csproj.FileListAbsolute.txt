@@ -1,0 +1,7 @@
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu09ErisimBelirleyiciler\bin\Debug\Konu09ErisimBelirleyiciler.exe.config
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu09ErisimBelirleyiciler\bin\Debug\Konu09ErisimBelirleyiciler.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu09ErisimBelirleyiciler\bin\Debug\Konu09ErisimBelirleyiciler.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu09ErisimBelirleyiciler\obj\Debug\Konu09ErisimBelirleyiciler.csproj.AssemblyReference.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu09ErisimBelirleyiciler\obj\Debug\Konu09ErisimBelirleyiciler.csproj.CoreCompileInputs.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu09ErisimBelirleyiciler\obj\Debug\Konu09ErisimBelirleyiciler.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu09ErisimBelirleyiciler\obj\Debug\Konu09ErisimBelirleyiciler.pdb

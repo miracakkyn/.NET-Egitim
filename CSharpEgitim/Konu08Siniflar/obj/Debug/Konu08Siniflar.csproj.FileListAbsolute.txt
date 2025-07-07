@@ -1,0 +1,8 @@
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu08Siniflar\bin\Debug\Konu08Siniflar.exe.config
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu08Siniflar\bin\Debug\Konu08Siniflar.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu08Siniflar\bin\Debug\Konu08Siniflar.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu08Siniflar\obj\Debug\Konu08Siniflar.csproj.AssemblyReference.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu08Siniflar\obj\Debug\Konu08Siniflar.csproj.CoreCompileInputs.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu08Siniflar\obj\Debug\Konu08Siniflar.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu08Siniflar\obj\Debug\Konu08Siniflar.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu08Siniflar\obj\Debug\Konu08Siniflar.exe.config

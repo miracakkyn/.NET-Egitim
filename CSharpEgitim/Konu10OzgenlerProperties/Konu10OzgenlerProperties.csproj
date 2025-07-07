@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8B2F1861-07C5-4440-A692-692222673E8A}</ProjectGuid>
+    <ProjectGuid>{5A94149B-2F0D-4093-B409-3C6F9BA5F427}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Konu08Siniflar</RootNamespace>
-    <AssemblyName>Konu08Siniflar</AssemblyName>
+    <RootNamespace>Konu10OzgenlerProperties</RootNamespace>
+    <AssemblyName>Konu10OzgenlerProperties</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Kullanici.cs" />
+    <Compile Include="Kisi.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Urun.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

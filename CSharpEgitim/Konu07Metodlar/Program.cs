@@ -49,11 +49,11 @@ namespace Konu07Metodlar
             }
             return kucukHarfSayisi; // return ifadesi ile degeri donduruyoruz
         }
-        
+
 
         static bool MailGonder(string MailAdresi)
         {
-            
+
             if (!string.IsNullOrWhiteSpace(MailAdresi))
             {
                 return true;
@@ -62,6 +62,7 @@ namespace Konu07Metodlar
             {
                 return false;
             }
+        }
 
     }
 }
