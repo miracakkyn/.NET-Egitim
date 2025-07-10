@@ -1,0 +1,7 @@
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu11StructYapilar\bin\Debug\Konu11StructYapilar.exe.config
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu11StructYapilar\bin\Debug\Konu11StructYapilar.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu11StructYapilar\bin\Debug\Konu11StructYapilar.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu11StructYapilar\obj\Debug\Konu11StructYapilar.csproj.AssemblyReference.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu11StructYapilar\obj\Debug\Konu11StructYapilar.csproj.CoreCompileInputs.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu11StructYapilar\obj\Debug\Konu11StructYapilar.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu11StructYapilar\obj\Debug\Konu11StructYapilar.pdb
