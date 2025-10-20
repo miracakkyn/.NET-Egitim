@@ -1,0 +1,143 @@
+﻿using System;
+
+namespace ConsoleApp1
+{
+    // =============================================================
+    // C# EĞİTİM NOTLARI – Tek Dosyada Kapsamlı Özet (C# 7.3, .NET Fx 4.7.2)
+    // Bu dosya sadece yorumlardan oluşan bir NOT dokümanıdır.
+    // Uygulama davranışını değiştirmez, derlenebilir durumdadır.
+    // =============================================================
+
+    // 1) .NET ve Konsol Uygulaması Temelleri
+    // - .NET Framework 4.7.2: CLR (Common Language Runtime) üzerinde C# kodu çalışır.
+    // - Giriş noktası: static void Main(string[] args)
+    // - Console.Write/WriteLine: Konsola çıktı vermek için kullanılır.
+    // - Console.ReadLine: Kullanıcıdan metin girişini okur (string döner).
+
+    // 2) Türler (Types) ve Değer/Referans Ayrımı
+    // - Değer tipleri (stack ağırlıklı): byte, sbyte, short, ushort, int, uint, long, ulong, float,
+    //   double, decimal, bool, char, struct, enum
+    // - Referans tipleri (heap ağırlıklı): string, array (int[] gibi), class, interface, delegate
+    // - Varsayılan değer (default): int => 0, bool => false, reference => null
+    // - Sınır/taşma: checked/unchecked ile kontrol edilebilir.
+    //   Ör: checked { byte b = (byte)256; } // taşma anında hata fırlatır
+
+    // 3) Sayısal Türler ve Sabitler
+    // - Literaller ve sonekler: 3.14F (float), 3.14 (double), 10M (decimal)
+    // - Tür aralıkları:
+    //   byte:    0..255,  sbyte:  -128..127
+    //   short:  -32768..32767,    ushort: 0..65535
+    //   int:    -2,147,483,648..2,147,483,647,  uint: 0..4,294,967,295
+    //   long:   çok daha geniş aralık,          ulong: 0..çok büyük
+    // - const: Derleme zamanında sabit; değeri değiştirilemez.
+    //   Ör: const int IstanbulPlaka = 34;
+    // - readonly: Alan (field) düzeyinde; sadece tanımlandığı yerde veya ctor’da atanabilir.
+
+    // 4) Metinsel Türler: char ve string
+    // - char tek karakter tutar. Unicode desteklidir.
+    // - string referans tipidir, IMMUTABLE’dır (değiştirilemez). Birleşimler yeni string üretir.
+    //   Performanslı çoklu birleştirme için StringBuilder tercih edilir.
+    //   Ör: var sb = new StringBuilder(); sb.Append("a"); sb.ToString();
+    // - Kaçış karakterleri: \n (yeni satır), \t (tab), \\	ers bölü
+
+    // 5) Tür Dönüşümleri (Casting & Conversions)
+    // - Implicit (bilinçsiz): Bilgi kaybı yoksa otomatik (ör: int -> long).
+    // - Explicit (bilinçli): Cast gerekir (ör: long -> int): int x = (int)l;
+    // - Convert sınıfı: Convert.ToInt32("123")
+    // - Parse/TryParse: int.Parse("123") hata fırlatır; int.TryParse("123", out var n) güvenlidir.
+
+    // 6) Operatörler
+    // - Aritmetik: + - * / %
+    // - Karşılaştırma: == != < <= > >= (bool döndürür)
+    // - Mantıksal: && || !
+    // - Atama türevleri: += -= *= /= %=
+    // - Artır/Azalt: ++ -- (ön/son ek etkisi)
+    // - Koşul (ternary): condition ? a : b
+    // - Birleştirme ipuçları: Parantez önceliği açıklaştırır.
+
+    // 7) Koşullar (if / else if / else) ve switch
+    // - if (sart) { ... } else if (sart2) { ... } else { ... }
+    // - switch (degisken) { case 1: ... break; case 2: ... break; default: ... break; }
+
+    // 8) Döngüler
+    // - for (int i = 0; i < n; i++) { ... }
+    // - while (sart) { ... }
+    // - do { ... } while (sart);
+    // - foreach (var x in koleksiyon) { ... }
+    // - break: döngüden çıkar; continue: mevcut iterasyonun kalanını atlayıp sonraki iterasyona geçer.
+
+    // 9) Metodlar (Yöntemler)
+    // - İmza: [erişim] [static?] dönüşTürü Ad(Parametreler)
+    //   Ör: static int Topla(int a, int b) { return a + b; }
+    // - void: değer döndürmez. return; ile çıkış yapılır.
+    // - Parametre türleri: değer, ref, out, params
+    //   Ör: bool int.TryParse(string, out int deger)
+    // - Aşırı yükleme (overload): Aynı ad, farklı imza (parametre listesi) ile çoklu metod.
+
+    // 10) Sınıflar (class) ve Nesneler (object)
+    // - Sınıf: alan (field), özellik (property), metod, olay (event) barındırır.
+    // - Nesne oluşturma: var k = new Kisi();
+    // - Nesne başlatıcı: var ev = new Ev { KapiNo = 12, Sehir = "Istanbul" };
+    // - static üyeler: Sınıf üzerinden erişilir. Ör: Kullanici.Sayac
+
+    // 11) Erişim Belirleyiciler
+    // - public: Her yerden erişim
+    // - private: Sadece tanımlandığı sınıf içinde
+    // - protected: Sınıf + alt sınıflar
+    // - internal: Aynı proje (assembly) içinde
+    // - Not: Top-level sınıflarda yazmazsanız varsayılan internal kabul edilir (class Program == internal class Program).
+
+    // 12) Kapsülleme ve Özellikler (Properties)
+    // - Amaç: Alanlara doğrudan erişimi sınırlayıp, kontrol/validasyon eklemek.
+    // - Otomatik özellikler: public string Ad { get; set; }
+    // - Sadece get: public string Kod { get; }
+    // - get/set erişimleri farklı olabilir: public string Sifre { get; private set; }
+    // - Doğrulama ör.: set { if (deger < 0) throw new ArgumentException(); alan = deger; }
+
+    // 13) Struct Yapıları
+    // - Değer tipidir. Hafif veri taşıyıcıları için uygundur (ör: Nokta, Renk).
+    // - Kalıtım (inheritance) desteklemez, interface uygulayabilir.
+    // - C# 7.3: Varsayılan parametresiz ctor tanımlanamaz; alanlar otomatik default değer alır.
+    // - Kopyalama semantiği: Atama ve parametre geçişlerinde kopyalanır (boxing’e dikkat).
+
+    // 14) Diziler ve Koleksiyonlar
+    // - Dizi: sabit uzunluk. int[] sayilar = {1,2,3}; var ilk = sayilar[0];
+    // - foreach ile güvenli/geçilebilir gezinme.
+    // - List<T>: dinamiktir (System.Collections.Generic). Ör: var list = new List<int>(); list.Add(1);
+
+    // 15) String İşlemleri
+    // - Uzunluk: s.Length
+    // - Dönüşümler: s.ToUpper(), s.ToLower()
+    // - Arama: s.Contains(sub), s.IndexOf(sub)
+    // - Parça alma: s.Substring(başlangıç, uzunluk)
+    // - Değiştirme/Kırpma: s.Replace(eskı, yeni), s.Trim()
+    // - Bölme: s.Split(' ')
+
+    // 16) Hata Yönetimi
+    // - try { ... } catch (Exception ex) { ... } finally { ... }
+    // - Kullanıcı girdisi/Parse işlemlerinde TryParse tercih edin.
+
+    // 17) Console İ/O İpuçları
+    // - Yazma: Console.WriteLine($"Sonuç: {deger}")
+    // - Okuma: var girdi = Console.ReadLine();
+    // - Sayıya çevirme: if (int.TryParse(girdi, out var n)) { ... }
+
+    // 18) Örnek Kalıplar (Sözde Kod – Yorum içinde)
+    // - Toplama metodu:
+    //   static int Topla(int a, int b) { return a + b; }
+    // - Erişim belirleyiciler:
+    //   public class Kullanici { public string Ad; internal string Soyad; private string Telefon; protected string Mail; }
+    // - Nesne başlatıcı:
+    //   var ev = new Ev { KapiNo = 34, Sehir = "Istanbul", Ilce = "Kadikoy", SokakAdi = "Bahariye" };
+    // - Döngü örneği:
+    //   for (int i = 0; i < 10; i++) { Console.WriteLine(i); }
+
+    // 19) İyi Uygulamalar (Best Practices)
+    // - Anlamlı adlandırma (PascalCase: sınıf/metod; camelCase: yerel değişken/parametre)
+    // - Uzun metin birleştirmede StringBuilder kullanın.
+    // - Kapsülleme: Alanları private tutup, property ile yayınlayın.
+    // - Giriş doğrulamalarında TryParse ve guard clause kullanın.
+    // - Gereksiz public yapmayın; internal/private tercih edin.
+
+    internal static class EgitimNotlari { }
+}

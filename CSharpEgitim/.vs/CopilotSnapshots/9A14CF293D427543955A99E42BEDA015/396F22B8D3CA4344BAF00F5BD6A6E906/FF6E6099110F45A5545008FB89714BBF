@@ -1,0 +1,155 @@
+﻿using System;
+
+namespace ConsoleApp1
+{
+    // ===============================================
+    // C# EĞİTİM NOTLARI – Proje Genel Özeti (C# 7.3, .NET Framework 4.7.2)
+    // Bu dosya SADECE NOT amaçlıdır. Uygulama davranışını değiştirmez.
+    // ===============================================
+
+    // Genel Yapı
+    // - Çözümde birden fazla proje var ve her proje temel C# konularını örnekliyor.
+    // - Başlıca konular: Değişkenler, Tip Dönüşümleri, Diziler, Operatörler,
+    //   Koşul Yapıları, Döngüler, Metodlar, Sınıflar, Erişim Belirleyiciler,
+    //   Özellikler (Properties), Struct Yapıları, String Sınıfı.
+
+    // -----------------------------------------------
+    // Proje: ConsoleApp1 (Konu01Degiskenler)
+    // Dosya: ConsoleApp1/Program.cs
+    // İçerik Özeti:
+    // - Temel sayısal ve metinsel türler: byte, sbyte, short, ushort, int/uint, long/ulong,
+    //   float, double, decimal, char, string, bool
+    // - Sabit (const) kullanımı: const int plaka_kodu_istanbul = 34;
+    // - Ekrana yazdırma ve string birleştirme: Console.WriteLine, "+"
+    // - Kaçış karakterleri: \n (yeni satır), \t (tab)
+    // - Tür aralıkları yorumlarla belirtilmiş (ör: byte 0–255, short -32768..32767).
+
+    // -----------------------------------------------
+    // Proje: Konu02TipDonusumleri
+    // Dosyalar mevcut (Program.cs), içerik detayı okunamadı.
+    // Konu Özeti (genel hatırlatma):
+    // - Bilinçsiz (implicit) ve bilinçli (explicit) dönüşüm
+    // - Sayısal dönüşümler: (int), (double) vb. cast’ler
+    // - Sistem yardımcıları: Convert.ToInt32, Convert.ToDouble
+    // - Metin -> sayı: int.Parse, int.TryParse (hata yakalamadan güvenli çeviri)
+
+    // -----------------------------------------------
+    // Proje: Konu03DizilerArrays
+    // Dosyalar mevcut (Program.cs), içerik detayı okunamadı.
+    // Konu Özeti (genel hatırlatma):
+    // - Tek boyutlu dizi tanımı ve erişim: int[] sayilar = {1,2,3}; sayilar[0]
+    // - foreach ile gezinme, Length özelliği
+    // - Çok boyutlu / jagged diziler (ileride): int[,] matris; int[][] jagged;
+
+    // -----------------------------------------------
+    // Proje: Konu04Operatorler
+    // Dosyalar mevcut (Program.cs), içerik detayı okunamadı.
+    // Konu Özeti (genel hatırlatma):
+    // - Aritmetik: +, -, *, /, %
+    // - Karşılaştırma: ==, !=, <, <=, >, >=
+    // - Mantıksal: &&, ||, !
+    // - Atama: =, +=, -=, *=, /=, %=
+    // - Artırma/Azaltma: ++, -- ve işlem öncelikleri
+
+    // -----------------------------------------------
+    // Proje: Ders05KosulYapilari (Konu05)
+    // Dosyalar mevcut (Program.cs), içerik detayı okunamadı.
+    // Konu Özeti (genel hatırlatma):
+    // - if, else if, else
+    // - switch-case, break
+    // - Üçlü (ternary) operatör: condition ? a : b
+
+    // -----------------------------------------------
+    // Proje: Konu06Donguler
+    // Dosya: Konu06Donguler/Program.cs
+    // İçerik Özeti:
+    // - for döngüsü (toplama örneği – yorum satırına alınmış)
+    // - while döngüsü, kullanıcı girişi ve break; try/catch ile hata yakalama (yorumlu)
+    // - do/while kullanım örneği (yorumlu)
+    // - foreach ile dizi üzerinde gezinme (yorumlu)
+
+    // -----------------------------------------------
+    // Proje: Konu07Metodlar
+    // Dosya: Konu07Metodlar/Program.cs
+    // İçerik Özeti:
+    // - static void Topla(int a, int b): Ekrana toplamı yazar (geri dönüş yok)
+    // - static int ToplaVeDondur(int a, int b): Toplamı döndürür (return kullanımı)
+    // - static int KucukHarfSay(string kelime): char.IsLower ile küçük harf sayar
+    // - static bool MailGonder(string mail): string.IsNullOrWhiteSpace kontrolü ile true/false döndürür
+    // - Not: Main metodundan bu metodlara çağrılar yapılmış ve sonuçlar yazdırılmıştır.
+
+    // -----------------------------------------------
+    // Proje: Konu08Siniflar
+    // Dosya: Konu08Siniflar/Program.cs
+    // İçerik Özeti:
+    // - Sınıf tanımı: class Ev { internal alanlar: KapiNo, SokakAdi, Ilce, Sehir }
+    // - Nesne üretimi ve kullanım:
+    //   Ev ev1 = new Ev(); alan atamaları ve ekrana formatlı yazdırma
+    //   Ev ev2 = new Ev { ... } nesne başlatıcı (object initializer) ile atamalar
+    // - Kullanici sınıfı (aynı projede) kullanımı:
+    //   kullanici.EkranaYaziYaz("Mirac");
+    //   kullanici.Topla(5, 10);
+    //   Kullanici.SinifDegiskeni (static alan)
+    //   kullanici.MailGonder("...");
+
+    // -----------------------------------------------
+    // Proje: Konu09ErisimBelirleyiciler
+    // Dosyalar:
+    // - Program.cs: public/protected/internal/private örnekleri, iç içe sınıflar
+    // - Kullanici.cs: Alan seviyesinde erişim belirleyicileri örnekleri
+    // İçerik Özeti:
+    // - public: Her yerden erişilebilir
+    // - private: Yalnızca tanımlandığı sınıf içinde
+    // - protected: Tanımlandığı sınıf ve alt sınıfları
+    // - internal: Aynı proje (assembly) içinde
+    // - Örnek kullanım: Kullanici.Adi (public) ve Kullanici.Soyadi (internal) alanlarına erişim
+
+    // -----------------------------------------------
+    // Proje: Konu10OzgenlerProperties
+    // Dosyalar: Kisi.cs, Urun.cs (içerik okunamadı)
+    // Konu Özeti (genel hatırlatma):
+    // - Otomatik özellikler: public string Ad { get; set; }
+    // - Kaplama (encapsulation) ve doğrulama: private alan + public property
+    // - Sadece get veya set senaryoları, readonly özellikler
+    // - static özellikler ve erişim belirleyicileri ile kullanım
+
+    // -----------------------------------------------
+    // Proje: Konu11StructYapilar
+    // Dosyalar mevcut (Program.cs), içerik detayı okunamadı.
+    // Konu Özeti (genel hatırlatma):
+    // - struct değer tipidir (stack ağırlıklı); class referans tipidir
+    // - Varsayılan parametresiz ctor davranışları (C# 7.3’te özel sınırlamalar)
+    // - Struct içinde alan/metod tanımı, interface implementasyonu
+
+    // -----------------------------------------------
+    // Proje: Konu12StringSinifi
+    // Dosyalar mevcut (Program.cs), içerik detayı okunamadı.
+    // Konu Özeti (genel hatırlatma):
+    // - Temel üyeler: Length, ToUpper/ToLower, Contains, IndexOf, Substring,
+    //   Replace, Trim, Split
+    // - String immutability (değiştirilemezlik) ve StringBuilder kullanımı
+
+    // -----------------------------------------------
+    // Diğer Projeler
+    // - ilkProje/Program.cs: Basit bir "Merhaba, ilk projem!" çıktısı
+    // - deneme projesi: Dosyalar mevcut; içerik detayı okunamadı.
+
+    // -----------------------------------------------
+    // Sık Karşılaşılan Kavram Hatırlatmaları
+    // - internal class Program ile class Program arasındaki fark:
+    //   Top-level sınıflarda erişim belirleyici yazılmazsa varsayılan internal’dır.
+    //   Yani çoğu şablonda internal açıkça yazılır; işlevsel fark yoktur.
+    // - static üyeler sınıf örneği oluşturmadan erişilir (örn. Kullanici.SinifDegiskeni)
+    // - try/catch, Convert/Parse/TryParse, char yardımcıları (IsLower vb.)
+
+    // -----------------------------------------------
+    // Önerilen Alıştırmalar
+    // - ConsoleApp1’deki türler için taşma/sınır testleri yapın (checked/unchecked)
+    // - Metodlar projesinde aşırı yükleme (overload) ekleyin ve opsiyonel parametreleri deneyin
+    // - Sınıflar projesinde Ev’e kurucu (constructor) ve ToString override ekleyin
+    // - Erişim belirleyicilerinde farklı erişim senaryoları deneyin (farklı projeden erişim)
+    // - Properties projesinde doğrulama yapan özellik yazın (örn. negatif fiyat kabul etmesin)
+    // - String’lerde StringBuilder ile performans karşılaştırması yapın
+
+    internal static class EgitimNotlari { }
+}

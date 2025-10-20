@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3732DB59-448A-49FD-A241-2A8EBF129031}|Konu12StringSinifi\\Konu12StringSinifi.csproj|c:\\users\\ozcim\\desktop\\yaz\u0131l\u0131m\\.net\\c#egitim\\.net-egitim\\csharpegitim\\konu12stringsinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3732DB59-448A-49FD-A241-2A8EBF129031}|Konu12StringSinifi\\Konu12StringSinifi.csproj|solutionrelative:konu12stringsinifi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B64AFFB-6D7E-40A7-A27C-4D5CC0800225}|Konu14KalitimInheritance\\Konu14KalitimInheritance.csproj|c:\\users\\ozcim\\desktop\\yaz\u0131l\u0131m\\.net\\c#egitim\\.net-egitim\\csharpegitim\\konu14kalitiminheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B64AFFB-6D7E-40A7-A27C-4D5CC0800225}|Konu14KalitimInheritance\\Konu14KalitimInheritance.csproj|solutionrelative:konu14kalitiminheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB50D8E-706D-40F9-AC3C-0DC373615AFF}|Konu13Enumlar\\Konu13Enumlar.csproj|c:\\users\\ozcim\\desktop\\yaz\u0131l\u0131m\\.net\\c#egitim\\.net-egitim\\csharpegitim\\konu13enumlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB50D8E-706D-40F9-AC3C-0DC373615AFF}|Konu13Enumlar\\Konu13Enumlar.csproj|solutionrelative:konu13enumlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu12StringSinifi\\Program.cs",
-              "RelativeDocumentMoniker": "Konu12StringSinifi\\Program.cs",
-              "ToolTip": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu12StringSinifi\\Program.cs",
-              "RelativeToolTip": "Konu12StringSinifi\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvxEAAAAWAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu14KalitimInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Konu14KalitimInheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu14KalitimInheritance\\Program.cs",
+              "RelativeToolTip": "Konu14KalitimInheritance\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA5wDEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T18:39:05.04Z",
+              "WhenOpened": "2025-10-20T13:50:45.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu13Enumlar\\Program.cs",
+              "RelativeDocumentMoniker": "Konu13Enumlar\\Program.cs",
+              "ToolTip": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu13Enumlar\\Program.cs",
+              "RelativeToolTip": "Konu13Enumlar\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T13:28:26.351Z",
               "EditorCaption": ""
             }
           ]

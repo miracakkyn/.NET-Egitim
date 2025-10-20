@@ -11,6 +11,7 @@ namespace Konu03DizilerArrays
         static void Main(string[] args)
         {
             int[] sayi;// Dizi tanımlama
+            //sayi[1] = 12; // Diziye değer atama (Bu satır hata verecektir çünkü dizi henüz oluşturulmadı)
             int[] ogrenciler = new int[7];// Dizi oluşturma ve boyutunu belirleme (7 elemanlı bir dizi)
             ogrenciler[0] = 101; // Diziye değer atama
             ogrenciler[1] = 102; // Diziye değer atama  
@@ -30,7 +31,8 @@ namespace Konu03DizilerArrays
             siviller[1] = "Mehmet"; // Diziye değer atama
             siviller[2] = "Ayşe"; // Diziye değer atama
             Console.WriteLine(siviller[2]);
-
+            string[] sehirler = new string[3]; // 3 elemanlı bir string dizisi oluşturma
+            sehirler[0]= "Ankara"; // Diziye değer atama
 
             int[] ogrenciler2 = {1000,200,300,400,500,600,700}; // Dizi tanımlama ve değer atama
 

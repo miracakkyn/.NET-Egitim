@@ -1,0 +1,8 @@
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu14KalitimInheritance\bin\Debug\Konu14KalitimInheritance.exe.config
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu14KalitimInheritance\bin\Debug\Konu14KalitimInheritance.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu14KalitimInheritance\bin\Debug\Konu14KalitimInheritance.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu14KalitimInheritance\obj\Debug\Konu14KalitimInheritance.csproj.AssemblyReference.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu14KalitimInheritance\obj\Debug\Konu14KalitimInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu14KalitimInheritance\obj\Debug\Konu14KalitimInheritance.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu14KalitimInheritance\obj\Debug\Konu14KalitimInheritance.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu14KalitimInheritance\obj\Debug\Konu14KalitimInheritance.exe.config
