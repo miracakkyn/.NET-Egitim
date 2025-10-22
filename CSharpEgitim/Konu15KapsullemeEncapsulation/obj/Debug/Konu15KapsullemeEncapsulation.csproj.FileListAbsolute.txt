@@ -1,0 +1,8 @@
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu15KapsullemeEncapsulation\bin\Debug\Konu15KapsullemeEncapsulation.exe.config
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu15KapsullemeEncapsulation\bin\Debug\Konu15KapsullemeEncapsulation.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu15KapsullemeEncapsulation\bin\Debug\Konu15KapsullemeEncapsulation.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu15KapsullemeEncapsulation\obj\Debug\Konu15KapsullemeEncapsulation.csproj.AssemblyReference.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu15KapsullemeEncapsulation\obj\Debug\Konu15KapsullemeEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu15KapsullemeEncapsulation\obj\Debug\Konu15KapsullemeEncapsulation.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu15KapsullemeEncapsulation\obj\Debug\Konu15KapsullemeEncapsulation.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu15KapsullemeEncapsulation\obj\Debug\Konu15KapsullemeEncapsulation.exe.config
