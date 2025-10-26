@@ -72,6 +72,26 @@ namespace Konu16InterfacesArayuzler
             return sayi1 - sayi2;
         }*/ //interfacelerde metod govdesi olamaz , metodlarin yapacagi islem tanimlanamaz
     }
+
+    class ArayuzKullanimi : icerebilecekleri
+    {
+        public int Sayi { get ; set ; }
+
+        public int CikarmaYap(int sayi1, int sayi2)
+        {
+            return sayi1 - sayi2;
+        }
+
+        public void Goster()
+        {
+            Console.WriteLine("Interfacvede imzasi tanimlanan metodun yapacagi is class da belirlenir");
+        }
+
+        public void Mesajver()
+        {
+            throw new NotImplementedException();
+        }
+    }
     internal class Program
     {
         //Arayuzler (Interfaces)
@@ -85,5 +105,75 @@ namespace Konu16InterfacesArayuzler
         static void Main(string[] args)
         {
         }
+    }
+
+    interface ISinifGereksinimleri
+    {
+        int Id { get; set; }
+        string Name { get; set; }
+        string Description { get; set; }
+        DateTime CreatedDate { get; set; }
+        DateTime ChangeDate { get; set; }
+
+    }
+
+    interface IVeritabaniIslemleri
+    {
+        void Add();
+        void Update();
+        void Delete();
+        void Get();
+        void GetAll();
+
+    }
+    class Kategori : ISinifGereksinimleri , IVeritabaniIslemleri
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public DateTime ChangeDate { get; set; }
+
+        public void Add()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Delete()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Get()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void GetAll()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Update()
+        {
+            throw new NotImplementedException();
+        }
+    }
+    class Urun : ISinifGereksinimleri
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public DateTime ChangeDate { get; set; }
+        public decimal Price { get; set; }
+    }
+    class Marka : ISinifGereksinimleri
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public DateTime ChangeDate { get; set; }
     }
 }

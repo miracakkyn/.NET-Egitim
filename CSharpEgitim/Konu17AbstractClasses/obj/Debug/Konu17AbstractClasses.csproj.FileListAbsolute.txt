@@ -1,0 +1,7 @@
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu17AbstractClasses\bin\Debug\Konu17AbstractClasses.exe.config
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu17AbstractClasses\bin\Debug\Konu17AbstractClasses.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu17AbstractClasses\bin\Debug\Konu17AbstractClasses.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu17AbstractClasses\obj\Debug\Konu17AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu17AbstractClasses\obj\Debug\Konu17AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu17AbstractClasses\obj\Debug\Konu17AbstractClasses.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu17AbstractClasses\obj\Debug\Konu17AbstractClasses.pdb
