@@ -1,0 +1,7 @@
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu16InterfacesArayuzler\bin\Debug\Konu16InterfacesArayuzler.exe.config
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu16InterfacesArayuzler\bin\Debug\Konu16InterfacesArayuzler.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu16InterfacesArayuzler\bin\Debug\Konu16InterfacesArayuzler.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu16InterfacesArayuzler\obj\Debug\Konu16InterfacesArayuzler.csproj.AssemblyReference.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu16InterfacesArayuzler\obj\Debug\Konu16InterfacesArayuzler.csproj.CoreCompileInputs.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu16InterfacesArayuzler\obj\Debug\Konu16InterfacesArayuzler.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu16InterfacesArayuzler\obj\Debug\Konu16InterfacesArayuzler.pdb

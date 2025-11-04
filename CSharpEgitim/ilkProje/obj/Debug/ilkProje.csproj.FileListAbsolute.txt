@@ -5,4 +5,3 @@ C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\ilkProje
 C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\ilkProje\obj\Debug\ilkProje.csproj.CoreCompileInputs.cache
 C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\ilkProje\obj\Debug\ilkProje.exe
 C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\ilkProje\obj\Debug\ilkProje.pdb
-C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\ilkProje\obj\Debug\ilkProje.exe.config

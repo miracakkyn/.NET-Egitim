@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB229F56-9CB2-4858-A549-C8A5694154F5}|Konu17AbstractClasses\\Konu17AbstractClasses.csproj|c:\\users\\ozcim\\desktop\\yaz\u0131l\u0131m\\.net\\c#egitim\\.net-egitim\\csharpegitim\\konu17abstractclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D45CD199-399B-41F5-813C-BED62B841C8E}|Konu18CollectionsKoleksiyonlar\\Konu18CollectionsKoleksiyonlar.csproj|c:\\users\\ozcim\\desktop\\yaz\u0131l\u0131m\\.net\\c#egitim\\.net-egitim\\csharpegitim\\konu18collectionskoleksiyonlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45CD199-399B-41F5-813C-BED62B841C8E}|Konu18CollectionsKoleksiyonlar\\Konu18CollectionsKoleksiyonlar.csproj|solutionrelative:konu18collectionskoleksiyonlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB229F56-9CB2-4858-A549-C8A5694154F5}|Konu17AbstractClasses\\Konu17AbstractClasses.csproj|C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\konu17abstractclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB229F56-9CB2-4858-A549-C8A5694154F5}|Konu17AbstractClasses\\Konu17AbstractClasses.csproj|solutionrelative:konu17abstractclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,14 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu18CollectionsKoleksiyonlar\\Program.cs",
+              "RelativeDocumentMoniker": "Konu18CollectionsKoleksiyonlar\\Program.cs",
+              "ToolTip": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu18CollectionsKoleksiyonlar\\Program.cs",
+              "RelativeToolTip": "Konu18CollectionsKoleksiyonlar\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAxwBoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:04:01.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu17AbstractClasses\\Program.cs",
               "RelativeDocumentMoniker": "Konu17AbstractClasses\\Program.cs",
               "ToolTip": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu17AbstractClasses\\Program.cs",
               "RelativeToolTip": "Konu17AbstractClasses\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T20:20:03.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T20:20:03.474Z"
             }
           ]
         }

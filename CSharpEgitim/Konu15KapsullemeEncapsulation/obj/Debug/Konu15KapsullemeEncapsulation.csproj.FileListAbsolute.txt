@@ -5,4 +5,3 @@ C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu15Ka
 C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu15KapsullemeEncapsulation\obj\Debug\Konu15KapsullemeEncapsulation.csproj.CoreCompileInputs.cache
 C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu15KapsullemeEncapsulation\obj\Debug\Konu15KapsullemeEncapsulation.exe
 C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu15KapsullemeEncapsulation\obj\Debug\Konu15KapsullemeEncapsulation.pdb
-C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu15KapsullemeEncapsulation\obj\Debug\Konu15KapsullemeEncapsulation.exe.config

@@ -1,0 +1,8 @@
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu18CollectionsKoleksiyonlar\bin\Debug\Konu18CollectionsKoleksiyonlar.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu18CollectionsKoleksiyonlar\bin\Debug\Konu18CollectionsKoleksiyonlar.exe.config
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu18CollectionsKoleksiyonlar\obj\Debug\Konu18CollectionsKoleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu18CollectionsKoleksiyonlar\obj\Debug\Konu18CollectionsKoleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu18CollectionsKoleksiyonlar\obj\Debug\Konu18CollectionsKoleksiyonlar.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu18CollectionsKoleksiyonlar\obj\Debug\Konu18CollectionsKoleksiyonlar.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu18CollectionsKoleksiyonlar\obj\Debug\Konu18CollectionsKoleksiyonlar.exe.config
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu18CollectionsKoleksiyonlar\bin\Debug\Konu18CollectionsKoleksiyonlar.pdb
