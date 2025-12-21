@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "Konu18CollectionsKoleksiyonlar\\Program.cs",
               "ToolTip": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu18CollectionsKoleksiyonlar\\Program.cs",
               "RelativeToolTip": "Konu18CollectionsKoleksiyonlar\\Program.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAxwBoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAAAMEAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T18:04:01.687Z",
               "EditorCaption": ""

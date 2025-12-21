@@ -23,9 +23,10 @@ namespace Konu18CollectionsKoleksiyonlar
 
             //Ornek4();
             //Ornek5();
-            Console.WriteLine("Merhaba");
+            //Console.WriteLine("Merhaba");
             //rnek6();
-            Ornek8();
+            //Ornek8();
+            ListKullanimi();
         }
         static void Ornek1()
         {
@@ -154,6 +155,43 @@ namespace Konu18CollectionsKoleksiyonlar
             keyValuePairs.Add("35", "Izmir");
             keyValuePairs["16"] = "Bursa";//Add methodu yerine bu sekilde de ekleme yapabiliriz.
             Console.WriteLine(keyValuePairs["35"]);
+        }
+
+        class User
+        {
+            public int Id { get; set; }
+            public string FirstName { get; set; }
+            public string Lastname { get; set; }
+
+
+
+        }
+
+        static void ListKullanimi()
+        {
+            List<string> sehirler = new List<string>();
+            sehirler.Add("Malatya");
+            sehirler.Add("Istanbul");
+            sehirler.Add("Ankara");
+            Console.WriteLine(sehirler.Contains("Malatya"));// bu degeri iceriyor mu?
+            foreach(var i in sehirler)
+            {
+                Console.WriteLine(i);
+            }
+            List<User> users = new List<User>();
+            users.Add(new User { Id=1, FirstName = "Ahmet", Lastname = "Yilmaz" });
+            users.Add(new User { Id = 2, FirstName = "Mehmet", Lastname = "Kaya" });
+            users.Add(new User { Id = 3, FirstName = "Ayse", Lastname = "Demir" });
+            List<User> kullanicilar = new List<User>()
+            {
+               new User { Id=1, FirstName = "Ahmet", Lastname = "Yilmaz" },new User { Id = 2, FirstName = "Mehmet", Lastname = "Kaya" },new User { Id = 3, FirstName = "Ayse", Lastname = "Demir" }
+            };
+            var yeniKullanici = new User
+            {
+                Id = 4,FirstName="Fatma",Lastname= "Celik"
+            };
+            kullanicilar.Add(yeniKullanici);
+            kullanicilar.AddRange(users);//birden fazla ekleme yapar
         }
 
     }
