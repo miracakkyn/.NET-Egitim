@@ -1,0 +1,10 @@
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu22WindowsForms\bin\Debug\Konu22WindowsForms.exe.config
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu22WindowsForms\bin\Debug\Konu22WindowsForms.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu22WindowsForms\bin\Debug\Konu22WindowsForms.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu22WindowsForms\obj\Debug\Konu22WindowsForms.csproj.AssemblyReference.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu22WindowsForms\obj\Debug\Konu22WindowsForms.Properties.Resources.resources
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu22WindowsForms\obj\Debug\Konu22WindowsForms.csproj.GenerateResource.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu22WindowsForms\obj\Debug\Konu22WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu22WindowsForms\obj\Debug\Konu22WindowsForms.exe
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu22WindowsForms\obj\Debug\Konu22WindowsForms.pdb
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu22WindowsForms\obj\Debug\Konu22WindowsForms.Form1.resources
