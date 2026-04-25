@@ -1,6 +1,6 @@
 ﻿namespace Konu22WindowsForms
 {
-    partial class Form2
+    partial class Form4
     {
         /// <summary>
         /// Required designer variable.
@@ -34,33 +34,33 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(124, 131);
+            this.button1.Location = new System.Drawing.Point(298, 90);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(170, 91);
+            this.button1.Size = new System.Drawing.Size(207, 142);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Form 1\'i Ac";
+            this.button1.Text = "Mesaj Ver";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(489, 131);
+            this.button2.Location = new System.Drawing.Point(298, 260);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(170, 91);
+            this.button2.Size = new System.Drawing.Size(207, 87);
             this.button2.TabIndex = 1;
-            this.button2.Text = "Yeni Form Olustur";
+            this.button2.Text = "Diger Mesaj Yontemi";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // Form2
+            // Form4
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.Highlight;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
-            this.Name = "Form2";
-            this.Text = "Form 2 Penceresi";
+            this.Name = "Form4";
+            this.Text = "Form4";
             this.ResumeLayout(false);
 
         }

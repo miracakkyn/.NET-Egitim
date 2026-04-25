@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Konu22WindowsForms
@@ -16,7 +13,7 @@ namespace Konu22WindowsForms
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Form10());//Proje calistiginda ilk olarak acilacak formu belirtiyoruz. Form3'ü açmak istediğimiz için Form3'ü yazıyoruz.
         }
         
     }

@@ -10,17 +10,16 @@ using System.Windows.Forms;
 
 namespace Konu22WindowsForms
 {
-    public partial class Form2 : Form
+    public partial class Form9 : Form
     {
-        public Form2()
+        public Form9()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
         {
-            Form1 form1=new Form1(); //Form1 sinifindan bir nesne olusturduk
-            form1.Show(); //Form1 nesnesini ekranda gosteriyoruz
+
         }
     }
 }

@@ -10,17 +10,17 @@ using System.Windows.Forms;
 
 namespace Konu22WindowsForms
 {
-    public partial class Form2 : Form
+    public partial class Form7 : Form
     {
-        public Form2()
+        public Form7()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void dateTimePicker2_ValueChanged(object sender, EventArgs e)
         {
-            Form1 form1=new Form1(); //Form1 sinifindan bir nesne olusturduk
-            form1.Show(); //Form1 nesnesini ekranda gosteriyoruz
+            textBox1.Text=("Iki tarih arasinda " +(dateTimePicker2.Value-dateTimePicker1.Value).Days.ToString() + " gun vardir");
+
         }
     }
 }

@@ -25,7 +25,26 @@ namespace Konu22WindowsForms
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            //butona tiklandiginda ekrana mesaj kutusu cikarir
+            Form2 form2=new Form2(); //Form2 sinifindan bir nesne olusturduk
+            //form2.Show(); //olusturdugumuz form2 penceresini ekranda gosterir
+            form2.ShowDialog(); //olusturdugumuz form2 penceresini ekranda gosterir ve form2 kapanmadan form1 e geri donulmez yani form2 modal bir pencere olur
+            //this.Hide(); //form1 i gizler yani form1 ekranda gozukmez ama arka planda calismaya devam eder closedan farki proje kapanmaz sadece form1 gizlenir
+
+        }
+
+        private void Form1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Form 1 penceresi kapatildi"); //form1 kapatildiktan sonra ekrana mesaj kutusu cikarir  , eger this.close dan sonra yazarsak mesaj kutusu gosterilmez cunku form1 kapanir ve mesaj kutusu gosterilemez   
+
+            this.Close();
+            //this nesnesi form1 i temsil eder ve close methodu ile form1 kapanir
+                //Form1.ActiveForm.Close(); //bu kodda form1 i kapatir
         }
     }
 }
