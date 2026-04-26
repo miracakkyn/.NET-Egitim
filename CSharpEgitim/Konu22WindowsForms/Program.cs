@@ -13,7 +13,7 @@ namespace Konu22WindowsForms
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form10());//Proje calistiginda ilk olarak acilacak formu belirtiyoruz. Form3'ü açmak istediğimiz için Form3'ü yazıyoruz.
+            Application.Run(new Form14());//Proje calistiginda ilk olarak acilacak formu belirtiyoruz. Form3'ü açmak istediğimiz için Form3'ü yazıyoruz.
         }
         
     }

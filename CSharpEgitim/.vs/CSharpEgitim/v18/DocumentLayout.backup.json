@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F2D601C-7B40-48D4-B54C-59AF2563CDC5}|Konu22WindowsForms\\Konu22WindowsForms.csproj|c:\\users\\ozcim\\desktop\\yaz\u0131l\u0131m\\.net\\c#egitim\\.net-egitim\\csharpegitim\\konu22windowsforms\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F2D601C-7B40-48D4-B54C-59AF2563CDC5}|Konu22WindowsForms\\Konu22WindowsForms.csproj|solutionrelative:konu22windowsforms\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F2D601C-7B40-48D4-B54C-59AF2563CDC5}|Konu22WindowsForms\\Konu22WindowsForms.csproj|c:\\users\\ozcim\\desktop\\yaz\u0131l\u0131m\\.net\\c#egitim\\.net-egitim\\csharpegitim\\konu22windowsforms\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2D601C-7B40-48D4-B54C-59AF2563CDC5}|Konu22WindowsForms\\Konu22WindowsForms.csproj|solutionrelative:konu22windowsforms\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F2D601C-7B40-48D4-B54C-59AF2563CDC5}|Konu22WindowsForms\\Konu22WindowsForms.csproj|c:\\users\\ozcim\\desktop\\yaz\u0131l\u0131m\\.net\\c#egitim\\.net-egitim\\csharpegitim\\konu22windowsforms\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F2D601C-7B40-48D4-B54C-59AF2563CDC5}|Konu22WindowsForms\\Konu22WindowsForms.csproj|solutionrelative:konu22windowsforms\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2F2D601C-7B40-48D4-B54C-59AF2563CDC5}|Konu22WindowsForms\\Konu22WindowsForms.csproj|c:\\users\\ozcim\\desktop\\yaz\u0131l\u0131m\\.net\\c#egitim\\.net-egitim\\csharpegitim\\konu22windowsforms\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F2D601C-7B40-48D4-B54C-59AF2563CDC5}|Konu22WindowsForms\\Konu22WindowsForms.csproj|solutionrelative:konu22windowsforms\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F2D601C-7B40-48D4-B54C-59AF2563CDC5}|Konu22WindowsForms\\Konu22WindowsForms.csproj|C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\konu22windowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,26 +31,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form10.cs",
-              "DocumentMoniker": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu22WindowsForms\\Form10.cs",
-              "RelativeDocumentMoniker": "Konu22WindowsForms\\Form10.cs",
-              "ToolTip": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu22WindowsForms\\Form10.cs",
-              "RelativeToolTip": "Konu22WindowsForms\\Form10.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAEwDMAAAAhAAAAAAAAAA==",
+              "Title": "Form14.cs",
+              "DocumentMoniker": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu22WindowsForms\\Form14.cs",
+              "RelativeDocumentMoniker": "Konu22WindowsForms\\Form14.cs",
+              "ToolTip": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu22WindowsForms\\Form14.cs",
+              "RelativeToolTip": "Konu22WindowsForms\\Form14.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAawCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T20:23:16.954Z",
+              "WhenOpened": "2026-04-26T12:53:24.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form10.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu22WindowsForms\\Form10.cs",
-              "RelativeDocumentMoniker": "Konu22WindowsForms\\Form10.cs",
-              "ToolTip": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu22WindowsForms\\Form10.cs [Design]",
-              "RelativeToolTip": "Konu22WindowsForms\\Form10.cs [Design]",
+              "Title": "Form14.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu22WindowsForms\\Form14.cs",
+              "RelativeDocumentMoniker": "Konu22WindowsForms\\Form14.cs",
+              "ToolTip": "C:\\Users\\ozcim\\Desktop\\Yaz\u0131l\u0131m\\.NET\\C#Egitim\\.NET-Egitim\\CSharpEgitim\\Konu22WindowsForms\\Form14.cs [Design]",
+              "RelativeToolTip": "Konu22WindowsForms\\Form14.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T20:21:52.046Z",
+              "WhenOpened": "2026-04-26T12:51:22.64Z",
               "EditorCaption": " [Design]"
             },
             {

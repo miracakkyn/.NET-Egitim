@@ -17,3 +17,7 @@ C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu22Wi
 C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu22WindowsForms\obj\Debug\Konu22WindowsForms.Form8.resources
 C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu22WindowsForms\obj\Debug\Konu22WindowsForms.Form9.resources
 C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu22WindowsForms\obj\Debug\Konu22WindowsForms.Form10.resources
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu22WindowsForms\obj\Debug\Konu22WindowsForms.Form11.resources
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu22WindowsForms\obj\Debug\Konu22WindowsForms.Form12.resources
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu22WindowsForms\obj\Debug\Konu22WindowsForms.Form13.resources
+C:\Users\ozcim\Desktop\Yazılım\.NET\C#Egitim\.NET-Egitim\CSharpEgitim\Konu22WindowsForms\obj\Debug\Konu22WindowsForms.Form14.resources
